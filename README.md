@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Fran Morais 👋
 
-- 🔭 Atualmente trabalhando como Analista Administrativo no Senac Minas.
+- 🔭 Atualmente trabalhando como Especialista Educacional em Tecnologia e Inovação no Senac Minas.
 - 🚀 Cursando Análise e Desenvolvimento de Sistemas na Estácio.
 - 🌱 Estudando programação em Javascript.
 - 😄 Pronouns: ela/dela
