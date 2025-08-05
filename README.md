@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Fran Morais 👋
 
-- 😄 Pronouns: ela/dela
 
 <div>
   <a href="https://github.com/imFranMorais">
